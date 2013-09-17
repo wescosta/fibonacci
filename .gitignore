@@ -4,3 +4,14 @@
 *.jar
 *.war
 *.ear
+
+# mvn
+target/
+
+# Eclipse project files
+.classpath
+.project
+.settings
+
+#Gedit temp files
+*.*~
